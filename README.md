@@ -28,14 +28,14 @@ A passionate developer from Spain, with more than 5 years of experience as front
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=anaisvicper"
+      src="https://github-profile-trophy.vercel.app/?username=anaisvicper&column=4&margin-w=15&margin-h=15"
       alt="anaisvicper"
     />
   </a>
 </p>
 -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/anaisvicper](https://github.com/anaisvicper)
+- 👩‍💻 All of my projects are available at [https://github.com/anaisvicper](https://github.com/anaisvicper)
 
 <h3 align="left">
   Connect with me: <a href="https://www.linkedin.com/in/ana-isabel-viciana" target="blank">
